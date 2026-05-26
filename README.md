@@ -1,11 +1,3 @@
-## Connect with me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18UuqA223z/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-nafisa-sharmin-nahin-24b5aa373
-)
-
 <h1 align="center">Hi 👋, I'm Nafisa Sharmin Nahin</h1>
 <h3 align="center">A passionate frontend developer and Computer Science student with an interest in UI/UX and clean design.</h3>
 <img align="right" alt="girl coding" width="400" src="https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"
